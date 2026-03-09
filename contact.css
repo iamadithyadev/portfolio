@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(99, 9, 137);
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-family: 'Poppins', sans-serif;;;
+
+
+
+}
+.bar{
+    border: 2px solid black;
+    background-color: white;
+}
+img{
+    width: 500px;
+    height:300px;
+
+}
+.contact{
+    border:2px solid white
+}
+.contact img{
+    width: 200px;
+    height: auto;
+}
+.home img{
+    width: 50px;
+    height: auto;
+}

@@ -1,0 +1,66 @@
+a{
+  text-decoration: none;
+ 
+  margin: auto;
+  color:  rgb(255, 255, 255);
+  padding: 25PX;
+}
+.right{
+   text-align: right;
+}
+
+ .left{
+    font-family: "Risque", serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    padding-left: 10px;
+ }  
+
+
+
+body{
+    background-color: rgb(99, 9, 137);
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+
+}
+.border{
+    border: 3px solid rgb(140, 41, 194);
+    background-color: rgb(140, 41, 194);
+    padding: 1px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 3%;
+    
+}
+.lefth{
+    background-color: rgb(99, 9, 137);
+    margin-top: 12%;
+    width: 30%;
+    color: white;
+    text-align: center;
+
+}
+.righth{
+    width: 30%;
+}
+img{
+  width: 130%;
+  height: auto;
+}
+h4{
+    font-family: "Libre Barcode 128 Text", system-ui;
+}
+.wp img{
+    width:40px;
+    height: auto;
+}
+.wp{
+    display: flex;
+}
