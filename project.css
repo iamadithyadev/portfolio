@@ -4,6 +4,12 @@ a{
   margin: auto;
   color:  rgb(255, 255, 255);
   padding: 25PX;
+  transition: 0.3s;
+}
+a:hover{
+    color: rgb(208, 193, 217);
+    font-size: 1.4rem;
+
 }
 .right{
    text-align: right;
@@ -63,4 +69,11 @@ h4{
 }
 .wp{
     display: flex;
+}
+.wp a{
+   transition: 0.3s;
+   
+}
+.wp a:hover{
+    transform: scale(1.2);
 }
