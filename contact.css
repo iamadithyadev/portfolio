@@ -26,7 +26,7 @@ img{
     transition: 0.3s;
 }
 .contact img:hover{
-    transform: scale(1.5);
+    transform: scale(1.1);
 }
 .home img{
     width: 50px;
