@@ -20,6 +20,9 @@ I am Adithya Dev, a Computer Science Engineering student at Amrita Vishwa Vidyap
 
 ## Project Structure
 
+## Project Structure
+
+```
 portfolio/
 ├── index.html
 ├── about.html
@@ -27,6 +30,7 @@ portfolio/
 ├── contact.html
 ├── mystyle.css
 └── images/
+```
 
 ## Live Portfolio Website
 https://iamadithyadev.github.io/portfolio/index.html
