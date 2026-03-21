@@ -18,7 +18,6 @@ I am Adithya Dev, a Computer Science Engineering student at Amrita Vishwa Vidyap
 - HTML  
 - CSS  
 
-## Project Structure
 
 ## Project Structure
 
