@@ -24,3 +24,11 @@ img{
     height: auto;
 
 }
+main img{
+    width: 50px;
+    height:auto;
+    transition: 0.3s;
+}
+main img:hover{
+    transform: scale(1.3);
+}
