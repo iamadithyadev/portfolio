@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(99, 9, 137);
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-family: 'Poppins', sans-serif;;;
+
+
+
+}
+img{
+    width: 400px;
+    height:200px;
+
+}
+.bar{
+    border: 2px solid black;
+    background-color: white;
+}
+
+.school{
+    border:2px solid white
+}
+.clg{
+    border:2px solid white
+}
+
+.home img{
+    width: 50px;
+    height:auto;
+    transition: 0.3s;
+}
+.home img:hover{
+    transform: scale(1.3);
+}
