@@ -16,21 +16,26 @@
 <body>
     <header>
         <div class="border">
-            <div class="left">
+            <div class=left>
                 <h1>MY PORTFOLIO</h1>
                 <h4>AD</h4>  
             </div>
-                <div class="right">
+                <div class="right">  
                             <a href="about.html" target="_self">ABOUT</a>
                             <a href="contact.html" target="_self">CONTACT</a>
+                            <a href="education.html" target="_self">EDUCATION</a>  
                 </div>
         </div>
     </header>
     <main>
         <div class="main"> 
             <div class="lefth">
+                <DIV class="profile">
+                    <img src="cropped_circle_image.png" alt="profile">
+                </DIV>
                 <H1>Hi, I'm Adithyadev</H1>
-                <div><h2>And I am a CSE student </h2></div>
+                <div><h2>And I am a <span id="element"></span> </h2>
+                </div>
                 <div class="wp">
                     <a href="https://wa.me/917994875451"><img src="wp.png" alt="whatsapp"></a>
                     <a href="https://discord.com/users/823257248221888552"><img src="dis.png" alt="discord"></a>
@@ -43,8 +48,13 @@
             </div>
         </div>
     </main>
-
-
-    
+    <script src="https://unpkg.com/typed.js@3.0.0/dist/typed.umd.js"></script>
+    <script>
+        var typed = new Typed('#element', {
+            strings: ['Coder', 'CSE Student'],
+            typeSpeed: 50,
+            loop:true
+        });
+  </script>
 </body>
 </html>
