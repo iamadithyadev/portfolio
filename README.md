@@ -16,7 +16,9 @@ I am Adithya Dev, a Computer Science Engineering student at Amrita Vishwa Vidyap
 ## Technologies Used
 
 - HTML  
-- CSS  
+- CSS
+- Google fonts
+- Typed.js (JavaScript library for typing animation)
 
 
 ## Project Structure
