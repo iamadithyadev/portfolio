@@ -86,5 +86,18 @@ h4{
 #element{
     font-family: 'Poppins', sans-serif;
 
-
 }
+@media (max-width: 768px) {
+    .righth {
+        display: none;
+    }
+    .profile img{
+        width: 100%;
+        height:auto
+    }
+    .wp{
+           justify-content: center;
+    
+    }
+}
+
