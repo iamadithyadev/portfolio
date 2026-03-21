@@ -28,7 +28,10 @@ portfolio/
 ├── about.html
 ├── education.html
 ├── contact.html
-├── mystyle.css
+├── about.css
+├── contact.css
+├── education.css
+├── project.css
 └── images/
 ```
 
