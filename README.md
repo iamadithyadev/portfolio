@@ -4,7 +4,7 @@ This is a personal portfolio website created using HTML and CSS. It showcases my
 
 ## About
 
-I am Adithya Dev, a Computer Science Engineering student at Amrita Vishwa Vidyapeetham. This portfolio is part of my learning in web development.
+I am Adithyadev, a Computer Science Engineering student at Amrita Vishwa Vidyapeetham. This portfolio is part of my learning in web development.
 
 ## Features
 
