@@ -96,6 +96,47 @@ h4{
         0 0 40px rgba(0,255,255,0.6);
 
 }
+.footer {
+    background: rgb(140, 41, 194);
+    color: #baafaf;
+    text-align: center;
+    margin: 0;
+    font-size: 13px;
+    border: 1px solid rgb(140, 41, 194);
+}
+.footer a{
+  text-decoration: none;
+  margin: auto;
+  color:   rgb(208, 193, 217);
+  padding: 25PX;
+  transition: 0.3s;
+}
+.footer a:hover{
+    color: rgb(208, 193, 217);
+    font-size: 0.9rem;
+
+}
+.footer {
+    background: rgb(140, 41, 194);
+    color: #baafaf;
+    text-align: center;
+    margin: 0;
+    font-size: 13px;
+    border: 1px solid rgb(140, 41, 194);
+}
+.footer a{
+  text-decoration: none;
+  margin: auto;
+  color:   rgb(208, 193, 217);
+  padding: 25PX;
+  transition: 0.3s;
+}
+.footer a:hover{
+    color: rgb(208, 193, 217);
+    font-size: 0.9rem;
+
+}
+
 @media (max-width: 1024px) {
     .righth {
         display: none;
