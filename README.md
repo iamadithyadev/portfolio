@@ -11,7 +11,8 @@ I am Adithyadev, a Computer Science Engineering student at Amrita Vishwa Vidyape
 - Home page with introduction  
 - About page  
 - Education page  
-- Contact information  
+- Contact information
+- Projects page
 
 ## Technologies Used
 
@@ -29,9 +30,11 @@ portfolio/
 ├── about.html
 ├── education.html
 ├── contact.html
+├── projects.html     
 ├── about.css
 ├── contact.css
 ├── education.css
+├── projects.css     
 ├── project.css
 └── images/
 ```
